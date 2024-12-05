@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 2%;
+}
+
+
+
+body{color: black;}
+
+body{background-color: hotpink;}
+h1,h2,h3{color: blue;}
+li a {color: deeppink;}
+
+section{
+    background-color: beige;
+    border: 3em; 
+    border-color: cadetblue;
+    margin: 3em;
+    width: 35em;}
+
+div{border: 20em; border-color: blueviolet;}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    border-color: lightpink
+    border: 1em;
+    padding: 2em;
+    margin:3em
+    
+}
+nav{
+    background-color: beige;
+    margin: 3em;
+    padding: 3em;
+}
